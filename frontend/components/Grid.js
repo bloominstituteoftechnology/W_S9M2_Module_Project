@@ -1,5 +1,7 @@
 import React, { useState } from 'react'
 
+// ❗ Find instructions for this task in the README file
+
 const makeGrid = (size) => {
   const arr = new Array(size)
   for (let i = 0; i < size; i++) {

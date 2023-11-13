@@ -1,6 +1,6 @@
 # Sprint 9 Module 2 Project
 
-## Introduction
+## Intro
 
 Welcome to Module 2 Project! In this project, you will work with the advanced hooks `useRef` and `useMemo`.
 

@@ -1,5 +1,7 @@
 import React from 'react'
 
+// ❗ Find instructions for this task in the README file
+
 export default function Interval() {
   return (
     <div className="widget">
