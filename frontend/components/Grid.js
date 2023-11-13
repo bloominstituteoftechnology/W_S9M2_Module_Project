@@ -35,7 +35,7 @@ function Grid({ size, name }) {
   )
 }
 
-export default function Filtering() {
+export default function GridWidget() {
   const [name, setName] = useState('')
   return (
     <div className="widget">
