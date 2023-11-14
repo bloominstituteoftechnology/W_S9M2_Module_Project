@@ -1,6 +1,6 @@
 # Sprint 9 Module 2 Project
 
-## Intro
+## Introduction
 
 Welcome to Module 2 Project! In this project, you will work with the advanced hooks `useRef` and `useMemo`.
 
@@ -38,7 +38,9 @@ There is no need to install any NPM dependencies nor work outside of these files
 
 You can navigate to each widget in Chrome by using the provided anchor tags.
 
-Have fun, and check out the **Solution Video** of this project for tips and getting unstuck!
+Keep in mind that there are many ways to solve a given programming problem.
+
+Check out the **Solution Video** of this project if you need help getting unstuck. Have fun!
 
 #### 👉 TASK 1 - Implement a Drawing Board in Canvas.js
 
